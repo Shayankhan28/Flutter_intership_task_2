@@ -1,6 +1,5 @@
 import 'package:apitask/Routings/routename.dart';
 import 'package:apitask/Routings/routes.dart';
-import 'package:apitask/screen/homescreen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
