@@ -1,0 +1,365 @@
+{
+  "page": 1,
+  "per_page": 50,
+  "total": 50,
+  "total_pages": 1,
+  "data": [
+    {
+      "id": 1,
+      "email": "emma.johnson@example.com",
+      "first_name": "Emma",
+      "last_name": "Johnson",
+      "avatar": "https://randomuser.me/api/portraits/women/1.jpg"
+    },
+    {
+      "id": 2,
+      "email": "noah.williams@example.com",
+      "first_name": "Noah",
+      "last_name": "Williams",
+      "avatar": "https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    {
+      "id": 3,
+      "email": "olivia.brown@example.com",
+      "first_name": "Olivia",
+      "last_name": "Brown",
+      "avatar": "https://randomuser.me/api/portraits/women/3.jpg"
+    },
+    {
+      "id": 4,
+      "email": "liam.jones@example.com",
+      "first_name": "Liam",
+      "last_name": "Jones",
+      "avatar": "https://randomuser.me/api/portraits/men/4.jpg"
+    },
+    {
+      "id": 5,
+      "email": "ava.garcia@example.com",
+      "first_name": "Ava",
+      "last_name": "Garcia",
+      "avatar": "https://randomuser.me/api/portraits/women/5.jpg"
+    },
+    {
+      "id": 6,
+      "email": "lucas.miller@example.com",
+      "first_name": "Lucas",
+      "last_name": "Miller",
+      "avatar": "https://randomuser.me/api/portraits/men/6.jpg"
+    },
+    {
+      "id": 7,
+      "email": "sophia.davis@example.com",
+      "first_name": "Sophia",
+      "last_name": "Davis",
+      "avatar": "https://randomuser.me/api/portraits/women/7.jpg"
+    },
+    {
+      "id": 8,
+      "email": "mason.rodriguez@example.com",
+      "first_name": "Mason",
+      "last_name": "Rodriguez",
+      "avatar": "https://randomuser.me/api/portraits/men/8.jpg"
+    },
+    {
+      "id": 9,
+      "email": "isabella.martinez@example.com",
+      "first_name": "Isabella",
+      "last_name": "Martinez",
+      "avatar": "https://randomuser.me/api/portraits/women/9.jpg"
+    },
+    {
+      "id": 10,
+      "email": "ethan.hernandez@example.com",
+      "first_name": "Ethan",
+      "last_name": "Hernandez",
+      "avatar": "https://randomuser.me/api/portraits/men/10.jpg"
+    },
+    {
+      "id": 11,
+      "email": "mia.lopez@example.com",
+      "first_name": "Mia",
+      "last_name": "Lopez",
+      "avatar": "https://randomuser.me/api/portraits/women/11.jpg"
+    },
+    {
+      "id": 12,
+      "email": "logan.gonzalez@example.com",
+      "first_name": "Logan",
+      "last_name": "Gonzalez",
+      "avatar": "https://randomuser.me/api/portraits/men/12.jpg"
+    },
+    {
+      "id": 13,
+      "email": "amelia.wilson@example.com",
+      "first_name": "Amelia",
+      "last_name": "Wilson",
+      "avatar": "https://randomuser.me/api/portraits/women/13.jpg"
+    },
+    {
+      "id": 14,
+      "email": "jacob.anderson@example.com",
+      "first_name": "Jacob",
+      "last_name": "Anderson",
+      "avatar": "https://randomuser.me/api/portraits/men/14.jpg"
+    },
+    {
+      "id": 15,
+      "email": "harper.thomas@example.com",
+      "first_name": "Harper",
+      "last_name": "Thomas",
+      "avatar": "https://randomuser.me/api/portraits/women/15.jpg"
+    },
+    {
+      "id": 16,
+      "email": "michael.taylor@example.com",
+      "first_name": "Michael",
+      "last_name": "Taylor",
+      "avatar": "https://randomuser.me/api/portraits/men/16.jpg"
+    },
+    {
+      "id": 17,
+      "email": "evelyn.moore@example.com",
+      "first_name": "Evelyn",
+      "last_name": "Moore",
+      "avatar": "https://randomuser.me/api/portraits/women/17.jpg"
+    },
+    {
+      "id": 18,
+      "email": "daniel.jackson@example.com",
+      "first_name": "Daniel",
+      "last_name": "Jackson",
+      "avatar": "https://randomuser.me/api/portraits/men/18.jpg"
+    },
+    {
+      "id": 19,
+      "email": "abigail.martin@example.com",
+      "first_name": "Abigail",
+      "last_name": "Martin",
+      "avatar": "https://randomuser.me/api/portraits/women/19.jpg"
+    },
+    {
+      "id": 20,
+      "email": "henry.lee@example.com",
+      "first_name": "Henry",
+      "last_name": "Lee",
+      "avatar": "https://randomuser.me/api/portraits/men/20.jpg"
+    },
+    {
+      "id": 21,
+      "email": "ella.perez@example.com",
+      "first_name": "Ella",
+      "last_name": "Perez",
+      "avatar": "https://randomuser.me/api/portraits/women/21.jpg"
+    },
+    {
+      "id": 22,
+      "email": "alexander.thompson@example.com",
+      "first_name": "Alexander",
+      "last_name": "Thompson",
+      "avatar": "https://randomuser.me/api/portraits/men/22.jpg"
+    },
+    {
+      "id": 23,
+      "email": "scarlett.white@example.com",
+      "first_name": "Scarlett",
+      "last_name": "White",
+      "avatar": "https://randomuser.me/api/portraits/women/23.jpg"
+    },
+    {
+      "id": 24,
+      "email": "sebastian.harris@example.com",
+      "first_name": "Sebastian",
+      "last_name": "Harris",
+      "avatar": "https://randomuser.me/api/portraits/men/24.jpg"
+    },
+    {
+      "id": 25,
+      "email": "grace.sanchez@example.com",
+      "first_name": "Grace",
+      "last_name": "Sanchez",
+      "avatar": "https://randomuser.me/api/portraits/women/25.jpg"
+    },
+    {
+      "id": 26,
+      "email": "jack.clark@example.com",
+      "first_name": "Jack",
+      "last_name": "Clark",
+      "avatar": "https://randomuser.me/api/portraits/men/26.jpg"
+    },
+    {
+      "id": 27,
+      "email": "chloe.ramirez@example.com",
+      "first_name": "Chloe",
+      "last_name": "Ramirez",
+      "avatar": "https://randomuser.me/api/portraits/women/27.jpg"
+    },
+    {
+      "id": 28,
+      "email": "william.lewis@example.com",
+      "first_name": "William",
+      "last_name": "Lewis",
+      "avatar": "https://randomuser.me/api/portraits/men/28.jpg"
+    },
+    {
+      "id": 29,
+      "email": "aria.robinson@example.com",
+      "first_name": "Aria",
+      "last_name": "Robinson",
+      "avatar": "https://randomuser.me/api/portraits/women/29.jpg"
+    },
+    {
+      "id": 30,
+      "email": "james.walker@example.com",
+      "first_name": "James",
+      "last_name": "Walker",
+      "avatar": "https://randomuser.me/api/portraits/men/30.jpg"
+    },
+    {
+      "id": 31,
+      "email": "emily.young@example.com",
+      "first_name": "Emily",
+      "last_name": "Young",
+      "avatar": "https://randomuser.me/api/portraits/women/31.jpg"
+    },
+    {
+      "id": 32,
+      "email": "benjamin.allen@example.com",
+      "first_name": "Benjamin",
+      "last_name": "Allen",
+      "avatar": "https://randomuser.me/api/portraits/men/32.jpg"
+    },
+    {
+      "id": 33,
+      "email": "avery.king@example.com",
+      "first_name": "Avery",
+      "last_name": "King",
+      "avatar": "https://randomuser.me/api/portraits/women/33.jpg"
+    },
+    {
+      "id": 34,
+      "email": "elijah.wright@example.com",
+      "first_name": "Elijah",
+      "last_name": "Wright",
+      "avatar": "https://randomuser.me/api/portraits/men/34.jpg"
+    },
+    {
+      "id": 35,
+      "email": "lily.scott@example.com",
+      "first_name": "Lily",
+      "last_name": "Scott",
+      "avatar": "https://randomuser.me/api/portraits/women/35.jpg"
+    },
+    {
+      "id": 36,
+      "email": "matthew.torres@example.com",
+      "first_name": "Matthew",
+      "last_name": "Torres",
+      "avatar": "https://randomuser.me/api/portraits/men/36.jpg"
+    },
+    {
+      "id": 37,
+      "email": "zoe.nguyen@example.com",
+      "first_name": "Zoe",
+      "last_name": "Nguyen",
+      "avatar": "https://randomuser.me/api/portraits/women/37.jpg"
+    },
+    {
+      "id": 38,
+      "email": "david.hill@example.com",
+      "first_name": "David",
+      "last_name": "Hill",
+      "avatar": "https://randomuser.me/api/portraits/men/38.jpg"
+    },
+    {
+      "id": 39,
+      "email": "hannah.flores@example.com",
+      "first_name": "Hannah",
+      "last_name": "Flores",
+      "avatar": "https://randomuser.me/api/portraits/women/39.jpg"
+    },
+    {
+      "id": 40,
+      "email": "joseph.green@example.com",
+      "first_name": "Joseph",
+      "last_name": "Green",
+      "avatar": "https://randomuser.me/api/portraits/men/40.jpg"
+    },
+    {
+      "id": 41,
+      "email": "victoria.adams@example.com",
+      "first_name": "Victoria",
+      "last_name": "Adams",
+      "avatar": "https://randomuser.me/api/portraits/women/41.jpg"
+    },
+    {
+      "id": 42,
+      "email": "samuel.nelson@example.com",
+      "first_name": "Samuel",
+      "last_name": "Nelson",
+      "avatar": "https://randomuser.me/api/portraits/men/42.jpg"
+    },
+    {
+      "id": 43,
+      "email": "ella.baker@example.com",
+      "first_name": "Ella",
+      "last_name": "Baker",
+      "avatar": "https://randomuser.me/api/portraits/women/43.jpg"
+    },
+    {
+      "id": 44,
+      "email": "carter.hall@example.com",
+      "first_name": "Carter",
+      "last_name": "Hall",
+      "avatar": "https://randomuser.me/api/portraits/men/44.jpg"
+    },
+    {
+      "id": 45,
+      "email": "sofia.rivera@example.com",
+      "first_name": "Sofia",
+      "last_name": "Rivera",
+      "avatar": "https://randomuser.me/api/portraits/women/45.jpg"
+    },
+    {
+      "id": 46,
+      "email": "owen.campbell@example.com",
+      "first_name": "Owen",
+      "last_name": "Campbell",
+      "avatar": "https://randomuser.me/api/portraits/men/46.jpg"
+    },
+    {
+      "id": 47,
+      "email": "layla.mitchell@example.com",
+      "first_name": "Layla",
+      "last_name": "Mitchell",
+      "avatar": "https://randomuser.me/api/portraits/women/47.jpg"
+    },
+    {
+      "id": 48,
+      "email": "wyatt.carter@example.com",
+      "first_name": "Wyatt",
+      "last_name": "Carter",
+      "avatar": "https://randomuser.me/api/portraits/men/48.jpg"
+    },
+    {
+      "id": 49,
+      "email": "penelope.roberts@example.com",
+      "first_name": "Penelope",
+      "last_name": "Roberts",
+      "avatar": "https://randomuser.me/api/portraits/women/49.jpg"
+    },
+    {
+      "id": 50,
+      "email": "dylan.phillips@example.com",
+      "first_name": "Dylan",
+      "last_name": "Phillips",
+      "avatar": "https://randomuser.me/api/portraits/men/50.jpg"
+    },
+    {
+      "id": 51,
+      "email": "camila.evans@example.com",
+      "first_name": "Camila",
+      "last_name": "Evans",
+      "avatar": "https://randomuser.me/api/portraits/women/51.jpg"
+    }
+  ]
+}
