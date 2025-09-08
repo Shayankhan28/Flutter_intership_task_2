@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "194578711291",
+    "project_id": "internshiptask-c365b",
+    "storage_bucket": "internshiptask-c365b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194578711291:android:01fc7c84a0b7c6423fe65e",
+        "android_client_info": {
+          "package_name": "com.example.firebasetaskss"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvkW1IIN5-jmBhtSPF51LfhG0UBFitXGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
