@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "208481706332",
+    "firebase_url": "https://proovidertask-default-rtdb.firebaseio.com",
+    "project_id": "proovidertask",
+    "storage_bucket": "proovidertask.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208481706332:android:dcb2b1f1e08de0e31ea199",
+        "android_client_info": {
+          "package_name": "com.example.providetask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7HusyMi2upsdN8YNR1Z4U0jaToXTVCm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
